@@ -21,16 +21,18 @@
 
 ## 预览
 
-| 位置 | 链接 | 部署位置 | 状态 |
+| 位置 | 链接 | 部署位置 | 构建状态 |
 | --- | --- | --- | --- |
-| d2.pub | [d2.pub/d2-admin/preview](https://d2.pub/d2-admin/preview) | 中国服务器 | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20https%3A%2F%2Fd2.pub/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+https%3A%2F%2Fd2.pub%22) |
-| cdn.d2.pub | [cdn.d2.pub/d2-admin/preview](https://cdn.d2.pub/d2-admin/preview) | 七牛云 CDN | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20https%3A%2F%2Fcdn.d2.pub/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+https%3A%2F%2Fcdn.d2.pub%22) |
-| github | [d2-projects.github.io/d2-admin](https://d2-projects.github.io/d2-admin) | GitHub pages | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20Github/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+Github%22) |
-| netlify | [d2-admin.netlify.com](https://d2-admin.netlify.com) | Netlify CDN | [![](https://api.netlify.com/api/v1/badges/a5dd4bbd-da3f-4145-98a9-8012577bdcf5/deploy-status)](https://app.netlify.com/sites/d2-admin/deploys) |
+| d2.pub | [preview](https://d2.pub/d2-admin/preview) | 中国服务器 | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20https%3A%2F%2Fd2.pub/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+https%3A%2F%2Fd2.pub%22) |
+| cdn.d2.pub | [preview](https://cdn.d2.pub/d2-admin/preview) | 七牛云 CDN | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20https%3A%2F%2Fcdn.d2.pub/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+https%3A%2F%2Fcdn.d2.pub%22) |
+| github | [preview](https://d2-projects.github.io/d2-admin) | GitHub pages | [![](https://github.com/d2-projects/d2-admin/workflows/Deploy%20Github/badge.svg)](https://github.com/d2-projects/d2-admin/actions?query=workflow%3A%22Deploy+Github%22) |
+| netlify | [preview](https://d2-admin.netlify.com) | Netlify CDN | [![](https://api.netlify.com/api/v1/badges/a5dd4bbd-da3f-4145-98a9-8012577bdcf5/deploy-status)](https://app.netlify.com/sites/d2-admin/deploys) |
 
 ## 文档
 
-[文档](https://d2.pub/zh/doc/d2-admin)
+[在 https://d2.pub 上的本项目文档](https://d2.pub/zh/doc/d2-admin/)
+
+> d2.pub CDN 镜像部署 [https://cdn.d2.pub](https://cdn.d2.pub)
 
 ## 功能
 
@@ -119,6 +121,7 @@
 
 | 名称 | Github / 主页 | 预览 | 介绍 |
 | --- | --- | --- | --- |
+| d2-admin-xiya-go-cms | [Github](https://github.com/d2-projects/d2-admin-xiya-go-cms) | [预览](https://d2.pub/d2-admin-xiya-go-cms/preview) | D2Admin + 权限系统 + 动态路由 |
 | d2-admin-pm | [Github](https://github.com/wjkang/d2-admin-pm) | [预览](http://jaycewu.coding.me/d2-admin-pm) | 基于 D2Admin 的 RBAC 权限管理解决方案 |
 | LanBlog | [Github](https://github.com/sinksmell/LanBlog) | [预览](http://47.101.222.133/) | Vue + Beego restful api 开发的懒人博客 |
 | d2-admin-start-kit-plus | [Github](https://github.com/hank-cp/d2-admin-start-kit-plus) | [预览](https://github.com/hank-cp/d2-admin-start-kit-plus) | D2Admin 简化版模块化版本 |
@@ -131,10 +134,11 @@
 | 名称 | 技术 | Github / 主页 | 预览 | 介绍 |
 | --- | --- | --- | --- | --- |
 | CareyShop | ThinkPHP5 | [Github](https://github.com/dnyz520/careyshop-admin) | [预览](https://demo.careyshop.cn/admin/#/index) | 适用于 CareyShop 的高性能商城框架系统 |
-| jiiiiiin-security | Spring Boot + Spring Security | [Github](https://github.com/Jiiiiiin/jiiiiiin-security) | [预览](https://github.com/Jiiiiiin/jiiiiiin-security) | 前后端分离的内容管理基础项目，注重用户权限管理功能 |
+| jiiiiiin-security | Spring Boot | [Github](https://github.com/Jiiiiiin/jiiiiiin-security) | [预览](https://github.com/Jiiiiiin/jiiiiiin-security) | 前后端分离的内容管理基础项目，注重用户权限管理功能 |
 | Taroco | Spring Cloud | [Github](https://github.com/liuht777/Taroco) | [预览](http://111.231.192.110/) | 整套微服务企业级解决方案 |
 | Aooms | Spring Cloud | [码云](https://gitee.com/cyb-javaer/Aooms) | [预览](https://www.yuboon.com/Aooms) | 极速微服务开发，不止像JFinal一样简单 |
 | GOA | Beego | [Github](https://github.com/Qsnh/goa) | [预览](http://goaio.vip/) | 基于 Beego + Vue 开发的在线问答系统 |
+| CMDB | Django | [Github](https://github.com/CJFJack/django_vue_cmdb) | [预览](https://mp.weixin.qq.com/s?__biz=MzU1OTYzODA4Mw==&mid=2247484250&idx=1&sn=981024ac0580d8a3eba95742bd32b268) | 分用户加载不同菜单和权限 |
 
 ## 加入我们
 
